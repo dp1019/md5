@@ -1,7 +1,6 @@
 {
     "name": "mypackages/zhangdapeng",
     "description": "md5 for laravel",
-    "license": "MIT",
     "authors": [
         {
             "name": "Zhang Dapeng",
