@@ -1,0 +1,17 @@
+{
+    "name": "packages/zhangdapeng",
+    "description": "md5 for laravel",
+    "authors": [
+        {
+            "name": "Zhang Dapeng",
+            "email": "2252357392@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+       "psr-4": {
+            "Zdp\\Md5\\": "src/"
+        }
+    }
+
+}
